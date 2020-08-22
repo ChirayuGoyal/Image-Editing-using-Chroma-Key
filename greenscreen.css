@@ -1,0 +1,25 @@
+body {
+  background-color: wheat;
+  font-family: Verdana;
+  margin: 40px;
+}
+
+canvas {
+  border: 1px solid black;
+  height: 200px;
+}
+
+input {
+  font-size: 12pt;
+}
+.header{
+  margin : 5px;
+  text-align: center;
+  background-color: white;
+  border: 3px solid blue;
+  padding-bottom: 20px;
+  border-style: dotted;
+}
+div {
+  padding: 30px;
+}
